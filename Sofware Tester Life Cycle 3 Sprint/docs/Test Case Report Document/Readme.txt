@@ -1,1 +1,0 @@
-This folder contains Test Case Report
